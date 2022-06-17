@@ -1,0 +1,38 @@
+body{
+    background-color: #FFFDE7;
+}
+h1{
+    color: darkred;
+    font: 5em serif;
+}
+
+.heading-heart{
+    width: 70px;
+    height: 70px;
+}
+
+.pizza-img{
+    width: 250px;
+    height: 250px;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+.list{
+    font-size: 20px;
+}
+
+hr{
+    border-style: dashed none none;
+    width: 40%;
+    border-width: 5px;
+    border-color: darksalmon;
+}
+
+.fun-facts{
+    color: darkred;
+    font: 2.5em serif;
+}
